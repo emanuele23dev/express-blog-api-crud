@@ -2,10 +2,25 @@ const posts = require('../db/posts.js')
 const fs = require('fs')
 
 const index = (req, res) => {
-  res.json({
-    data: posts,
-    count: posts.length,
-  });
+
+    let html = '<ul style="list-style-type: none;">';
+
+    posts.forEach((post) => {
+      html += `
+        <li>
+        
+            <img src="${post.image}" alt="">
+            <h2>${post.title}</h2>
+            <p>${post.content}</p>
+            <p>${post.tags}</p>
+    
+        </li>
+    `;
+    });
+
+    html += "</ul>";
+
+    res.status(200).send(html);
 };
 
 

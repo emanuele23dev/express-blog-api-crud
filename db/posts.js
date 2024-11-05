@@ -61,7 +61,7 @@ module.exports =  [
         "title": "Ciambellone Vegano",
         "slug": "ciambellone Vegano",
         "content": "Il ciambellone che la nonna preparava anche all'ultimo sapendo che sareste passati per la merenda: acqua, lievito, zucchero e farina. Niente di più basic ma che tra le sue mani, mescolando e infornando, diventava una delle prelibatezze per accompagnare il succo di frutta al pomeriggio o il latte di avena e caffè al mattino. Ecco la nostra ricetta del ciambellone a quale atmosfera si ispira, quella di casa e genuinità: con una manciata di scorze di limone o di arancia e una spolverata di zucchero a velo renderete questa soffice delizia profumata e invitante. E per una volta sarà la nonna a farvi i complimenti per aver preparato un morbido ciambellone vegano, così buono che non passa mai di moda!",
-        "image": "/imgs/posts/ciambellone.jpeg",
+        "image": "https://i.ytimg.com/vi/_ttOXQw7Oaw/maxresdefault.jpg",
         "tags": [
             "Dolci",
             "Torte",
