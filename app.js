@@ -5,6 +5,9 @@ const host = "http://127.0.0.1";
 
 const postsRoutes = require("./routers/posts.js");
 
+app.use(express.json());
+
+
 
 app.listen(port, () => {
   console.log(`App listening on ${host}:${port}`);
