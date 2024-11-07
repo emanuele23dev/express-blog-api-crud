@@ -1,17 +1,5 @@
 module.exports = [
     {
-        "title": "Tiramisù Vegano",
-        "slug": "Tiramisù Vegano",
-        "content": "Il ciambellone che la nonna preparava anche all'ultimo sapendo che sareste passati per la merenda: acqua, lievito, zucchero e farina. Niente di più basic ma che tra le sue mani, mescolando e infornando, diventava una delle prelibatezze per accompagnare il succo di frutta al pomeriggio o il latte di avena e caffè al mattino. Ecco la nostra ricetta del ciambellone a quale atmosfera si ispira, quella di casa e genuinità: con una manciata di scorze di limone o di arancia e una spolverata di zucchero a velo renderete questa soffice delizia profumata e invitante. E per una volta sarà la nonna a farvi i complimenti per aver preparato un morbido ciambellone vegano, così buono che non passa mai di moda!",
-        "image": "https://i.ytimg.com/vi/_ttOXQw7Oaw/maxresdefault.jpg",
-        "tags": [
-            "Dolci",
-            "Torte",
-            "Ricette vegane",
-            "Ricette al forno"
-        ]
-    },
-    {
         "title": "Cracker alla barbabietola",
         "slug": "cracker-alla-barbabietola",
         "content": "I cracker alla barbabietola sono uno snack stuzzicante e originale da preparare in casa utilizzando ingredienti semplici e genuini. Queste sfogliette dal colore brillante non passeranno inosservate nel vostro cestino del pane e arricchiranno la tavola con il loro gusto unico e accattivante. I cracker fatti a mano sono anche un gustoso snack spezza fame, da portare in ufficio o a scuola. Venite a scoprire il nostro mix di semi e cereali per realizzare l'impasto e divertitevi a sperimentare nuove ricette di cracker variando i semi, le farine e le spezie per gusti sempre nuovi, ecco qualche idea:\n\t\t\tCracker di farro\n\t\t\tCracker di lupini\n\t\t\tCracker allo zafferano\n\t\t\tCracker ai semi",
@@ -29,18 +17,6 @@ module.exports = [
         "image": "/imgs/posts/pasta_barbabietola.jpeg",
         "tags": [
             "Primi piatti",
-            "Ricette vegetariane"
-        ]
-    },
-    {
-        "title": "Pane fritto dolce",
-        "slug": "pane-fritto-dolce",
-        "content": "Il pane fritto dolce è la versione più antica dell’odierno french toast! Una deliziosa ricetta antispreco che le nonne preparavano ai bambini per merenda, utilizzando gli ingredienti che si avevano sempre a disposizione in casa: pane raffermo, uova, latte e zucchero, che noi abbiamo deciso di aromatizzare con un pizzico di cannella. Facile e veloce da realizzare, il pane fritto dolce vi riporterà con la mente ai sapori dell’infanzia… gustatelo da solo o accompagnatelo con frutta fresca e yogurt per uno spuntino tanto goloso quanto genuino!",
-        "image": "/imgs/posts/pane_fritto_dolce.jpeg",
-        "tags": [
-            "Dolci",
-            "Dolci veloci",
-            "Ricette veloci",
             "Ricette vegetariane"
         ]
     },

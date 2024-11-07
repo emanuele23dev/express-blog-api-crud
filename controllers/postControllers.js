@@ -71,7 +71,7 @@ const update = (req, res) => {
 
   if (!post) {
     res.status(404).json({
-      error: `nessun post con questo titolo ${req.params.titolo}`,
+      error: `nessun post con questo titolo ${req.params.title}`,
     });
   }
 
